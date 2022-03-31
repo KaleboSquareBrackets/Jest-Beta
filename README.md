@@ -1,10 +1,7 @@
 # Jest-Beta 0.3 #
 # You only need to download the .exe file to run the program, the .sln file is just the source code #
 
-Jest Beta is a tool used to analyse Echo VRML matches for stats. While the current version is quite limited, future updates will add more functionality.
-
-NumStats were removed completely due to them taking too long too input,
-MapStats were expanded to better analyse the points scored by teams.
+Jest Beta is a tool used to analyse Echo VRML matches for stats. While the current version is quite limited, future updates will add more functionality. NumStats were removed completely due to them taking too long too input, MapStats were expanded to better analyse the points scored by teams.
 
 MapStats that can be monitored are:
 - Save Map
